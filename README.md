@@ -127,3 +127,7 @@ changed `WHERE name IN ('France', 'Germany', 'Italy')`
 m) https://github.com/oskariruo/H2/blob/main/Bonus_m.md
 
 o) https://github.com/oskariruo/H2/blob/main/Bonus_o.md
+
+q) https://github.com/oskariruo/H2/blob/main/Bonus_q.md
+
+r) https://github.com/oskariruo/H2/blob/main/Bonus_r.md
