@@ -123,3 +123,7 @@ changed `WHERE continent = 'South America'` and added `population/1000000`
 changed `WHERE name IN ('France', 'Germany', 'Italy')`
 
 <h2>Bonus tasks</h2>
+
+m) https://github.com/oskariruo/H2/blob/main/Bonus_m.md
+
+o) https://github.com/oskariruo/H2/blob/main/Bonus_o.md
