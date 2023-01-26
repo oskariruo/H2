@@ -53,10 +53,20 @@ Prevention examples:
 <h4>Source</h4>
 https://owasp.org/Top10/A03_2021-Injection/
 
+<h2>Pick a CVE, and briefly explain it & why it matters</h>
+
+![CVE](CVE.PNG)
+
+I followed the tweet link to the original post on GitHub and there was the following explanation of the injection:
+
+![SQL Injection](SQL_Injection.PNG)
+
+A classic case of not filtering/protecting SQL data, making it possible for someone to gather excess information from the source. 
+
 <h2>a) Sequel. Solve SQLZoo:</h2>
 <h3>0 SELECT basics</h3>
 
-1.Introducing the world table of countries
+0.Introducing the world table of countries
 
 ![0: basics task 1](SQL_ZOO_0_1.PNG)
 changed ` WHERE name= 'Germany`
