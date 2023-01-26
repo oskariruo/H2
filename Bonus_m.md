@@ -1,5 +1,3 @@
-<h1>Bonus tasks for h2 Goat</h1>
-
 <h2>m) Voluntary bonus: Pick your tasks from SQLZoo 1, 3-9.</h2>
 
 <h3>SQLZoo 1</h3>
