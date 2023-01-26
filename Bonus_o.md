@@ -14,8 +14,8 @@ I created 2 tables Student and DormRoom:
 
 CREATE TABLE Student
 (
-	first_name VARCHAR(20) NOT NULL,
-	last_name VARCHAR(2) NOT NULL,
+	first_name VARCHAR(10) NOT NULL,
+	last_name VARCHAR(20) NOT NULL,
 	student_number VARCHAR(3) NOT NULL,
 	gpa SMALLINT NOT NULL,
   CONSTRAINT PK_Student PRIMARY KEY (student_number),
