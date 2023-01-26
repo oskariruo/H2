@@ -55,13 +55,26 @@ https://owasp.org/Top10/A03_2021-Injection/
 
 <h2>a) Sequel. Solve SQLZoo:</h2>
 <h3>0 SELECT basics</h3>
-1.
+
+1.Introducing the world table of countries
 
 ![0: basics task 1](SQL_ZOO_0_1.PNG)
 changed ` WHERE name= 'Germany`
 
-2.
+2.Scandinavia
 
 ![0: basics task 2](SQL_ZOO_0_2.PNG)
+
+changed ` WHERE name IN  ('Denmark', 'Norway', 'Denmark');`
+
+3.Just the right size
+
+![0: basics task 3](SQL_ZOO_0_3.PNG)
+
+changed ` WHERE area BETWEEN 200000 AND 250000`
+
+<h2>2 SELECT from World</h2>
+
+
 
 
