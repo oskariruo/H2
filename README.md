@@ -121,3 +121,5 @@ changed `WHERE continent = 'South America'` and added `population/1000000`
 ![2: select task 5](SQL_ZOO_2_5.PNG)
 
 changed `WHERE name IN ('France', 'Germany', 'Italy')`
+
+<h2>Bonus tasks</h2>
