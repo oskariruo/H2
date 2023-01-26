@@ -53,15 +53,22 @@ Prevention examples:
 <h4>Source</h4>
 https://owasp.org/Top10/A03_2021-Injection/
 
-<h2>Pick a CVE, and briefly explain it & why it matters</h>
+<h2>Darknet Diaries</h2>
+
+<h2>CVE</h2>
 
 ![CVE](CVE.PNG)
 
-I followed the tweet link to the original post on GitHub and there was the following explanation of the injection:
+I followed the tweet link to the original post on GitHub and there was the following explanation of the injection by user nolan124:
 
 ![SQL Injection](SQL_Injection.PNG)
 
-A classic case of not filtering/protecting SQL data, making it possible for someone to gather excess information from the source. 
+A classic case of not filtering/protecting SQL data, making it possible for someone to inject malignent SQL commands to gather excess information from the source. 
+
+<h4>Source</h4>
+
+https://twitter.com/CVEnew/status/1618605980354224128
+https://github.com/siteserver/cms/issues/3490
 
 <h2>a) Sequel. Solve SQLZoo:</h2>
 <h3>0 SELECT basics</h3>
