@@ -75,6 +75,32 @@ changed ` WHERE area BETWEEN 200000 AND 250000`
 
 <h2>2 SELECT from World</h2>
 
+1.
 
+![2: select task 1](SQL_ZOO_2_1.PNG)
 
+Nothing to really change
 
+2.
+
+![2: select task 2](SQL_ZOO_2_2.PNG)
+
+changed `WHERE population > 200000000`
+
+3.
+
+![2: select task 3](SQL_ZOO_2_3.PNG)
+
+changed `WHERE population > 200000000` and added `gdp/population`
+
+4.
+
+![2: select task 4](SQL_ZOO_2_4.PNG)
+
+changed `WHERE continent = 'South America'` and added `population/1000000`
+
+5.
+
+![2: select task 5](SQL_ZOO_2_5.PNG)
+
+changed `WHERE name IN ('France', 'Germany', 'Italy')`
