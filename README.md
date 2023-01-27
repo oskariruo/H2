@@ -153,6 +153,41 @@ changed `WHERE continent = 'South America'` and added `population/1000000`
 
 changed `WHERE name IN ('France', 'Germany', 'Italy')`
 
+<h2>A1 Injection (intro)</h2>
+
+2.
+
+
+![image](https://user-images.githubusercontent.com/78789083/215052680-5bceed02-80ab-4ece-a5d1-864c4a724f6b.png)
+
+To get Bobs department, I used the WHERE clause to target his first name.
+
+3.
+
+![image](https://user-images.githubusercontent.com/78789083/215053085-85898c41-3746-4aaa-9c73-f99924ae2421.png)
+
+Updated Tobis department to Sales by targeting his first_name in the WHERE clause.
+
+4.
+
+![image](https://user-images.githubusercontent.com/78789083/215053470-9cf77144-19c4-4c2c-8708-11ea30567364.png)
+
+ALTER TABLE to target employees-table and ADD phone varchar(20).
+
+5.
+
+![image](https://user-images.githubusercontent.com/78789083/215053825-95bbbd46-c733-487d-a0f5-4a9312b535e8.png)
+
+Simple permission granting to the UnauthorizedUser
+
+9.
+
+![image](https://user-images.githubusercontent.com/78789083/215054542-3788c971-0f14-4fac-9584-1c8abe554867.png)
+
+My choises, because '1' = '1' always evaluates to true. Basically anything that is true is returned.
+
+
+
 <h2>Bonus tasks</h2>
 
 m) https://github.com/oskariruo/H2/blob/main/Bonus_m.md
