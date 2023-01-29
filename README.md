@@ -1,4 +1,4 @@
-<h1>H2 Goat </h2>
+<h1>H2 Goat Oskari Ruotsalainen</h2>
 <h2>x) read and summarize</h2>
 
 <h3>Security Misconfiguration</h3>
