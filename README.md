@@ -186,7 +186,9 @@ Simple permission granting to the UnauthorizedUser
 
 My choises, because '1' = '1' always evaluates to true. Basically anything that is true is returned.
 
+the rest of this task will be possibly completed later...
 
+Thanks for reading!
 
 <h2>Bonus tasks</h2>
 
